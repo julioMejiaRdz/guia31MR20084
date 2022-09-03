@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejemplo2a.css" ?>
+<pais nombre="El Salvador">
+<moneda>Dolar</moneda>
+<CodigoTelefonico>+503</CodigoTelefonico>
+<idioma>Español</idioma>
+<departamento id="1" nombre="San Salvador">
+<cabecera title="cabecera">San Salvador</cabecera>
+<habitantes numero="#">1,700,000</habitantes>
+<altura id="altura">545 MSNM</altura>
+<areaTerriotorial area="area">Zona central</areaTerriotorial>
+</departamento>
+<departamento id="2" nombre="San Miguel">
+<cabecera>San Miguel</cabecera>
+<habitantes>1,100,000</habitantes>
+<altura>250 MSNM</altura>
+<areaTerriotorial>Zona oriental</areaTerriotorial>
+</departamento>
+</pais>

@@ -1,0 +1,26 @@
+{
+	"pais": {
+		"moneda": "Dolar",
+		"CodigoTelefonico": "+503",
+		"idioma": "Español",
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"areaTerriotorial": "Zona central",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "San Miguelr",
+				"habitantes": "1,100,000",
+				"altura": "250 MSNM",
+				"areaTerriotorial": "Zona oriental",
+				"_id": "2",
+				"_nombre": "San Miguel"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

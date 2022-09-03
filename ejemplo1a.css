@@ -1,0 +1,9 @@
+fichero {background-color:coral;}
+ficha {background-color:black; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm;}
+telefono {color:darkmagenta;background-color: chartreuse;}
+email {color:darkolivegreen; }
+enlace {color: gold; background-color: lightseagreen;}
+pais {color:green; background-color: black;}

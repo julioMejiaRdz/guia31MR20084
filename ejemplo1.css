@@ -1,0 +1,6 @@
+/* ejemplo1.css   MR20084  */
+fichero {background-color:brown;}
+ficha  {background-color:black; display:block; text-align: center;} 
+nombre { color:white;font-weight: bold; margin-right: 10cm;} 
+apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm;}

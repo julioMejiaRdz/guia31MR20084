@@ -1,0 +1,9 @@
+pais [nombre]::before {content: attr(nombre); background-color:brown;}
+departamento[nombre]::before {content: attr(nombre)  ; background-color:black; display:block;} 
+cabecera {color:aqua; display:inline-block;} 
+habitantes {color:yellow; font-size:medium; display:inline-table;}
+altura {color:yellow;font-size:2cm;}
+moneda {color:darkgreen; font-size: 1cm; background-color: aliceblue;}
+codigoTelefonico {color:black; background-color: antiquewhite; font-size: 1cm;display: block;}
+idioma {color:aqua; background-color: darkgoldenrod; font-size: 1cm;}
+areaTerritorial {color: crimson; background-color: dimgray; font-size: 0.5cm;}
